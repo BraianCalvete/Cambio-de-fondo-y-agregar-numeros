@@ -1,0 +1,12 @@
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.vbprojAssemblyReference.cache
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO_2.Form1.resources
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO_2.Resources.resources
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.vbproj.GenerateResource.cache
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.vbproj.CoreCompileInputs.cache
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\bin\Debug\EJERCICIO 2.exe.config
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\bin\Debug\EJERCICIO 2.exe
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\bin\Debug\EJERCICIO 2.pdb
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\bin\Debug\EJERCICIO 2.xml
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.exe
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.xml
+C:\Users\equipo\Desktop\EJERCICIO 2\EJERCICIO 2\obj\Debug\EJERCICIO 2.pdb
